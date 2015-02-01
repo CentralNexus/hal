@@ -1,0 +1,3 @@
+hal:
+  image: centralnexus/hal
+  command: behave
